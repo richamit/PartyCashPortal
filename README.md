@@ -44,6 +44,5 @@ PartyCash Portal is implemented in 3 weeks. This can be further extended and can
 
 1. Storm or spark can be used to replace the consumers written in Java
 
-2. 
 
 
