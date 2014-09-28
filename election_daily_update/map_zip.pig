@@ -47,7 +47,7 @@ after_merge = FOREACH merge_data_set GENERATE D::CMTE_ID as CMTE_ID, D::TRANSACT
               
 filter_by_cand_id = filter after_merge by CAND_ID IS NOT NULL;
 
-load_candidate = LOAD '/user/ubuntu/richa/random/filling_date/in/*' USING PigStorage('|') AS
+load_candidate = LOAD '/user/ubuntu/richa/candidate/in/cn14.txt' USING PigStorage('|') AS
 (CAND_ID:chararray,CAND_NAME:chararray,CAND_PTY_AFFILIATION:chararray,CAND_ELECTION_YR:int,
 CAND_OFFICE_ST:chararray,CAND_OFFICE:chararray,CAND_OFFICE_DISTRICT:chararray,CAND_ICI:chararray,
 CAND_STATUS:chararray,CAND_PCC:chararray,CAND_ST1:chararray,CAND_ST2:chararray,CAND_CITY:chararray,
