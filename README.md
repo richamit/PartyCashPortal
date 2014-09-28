@@ -33,6 +33,9 @@ Google Map API is used to show the cities from where the contibution are coming 
 <img src="images/map.png">
 
 ##How to Run
+
+If you want to run the scripts please refer to HowToRun.md
+
 To run the portal goto http://partycashportal.com:8082/partycash
 
 
