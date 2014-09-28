@@ -1,3 +1,6 @@
+Document is Work in Progress
+
+
 <h1>PartyCash Portal
 
 Designed and developed by <b>Richa Gupta</b>
@@ -24,7 +27,7 @@ I used tomcat as web server, implemented MVC architecture. Hbase Client API is u
 Here is the snapshot of the "Contribution to State Election Committee" page. 
 Web Server is called to show the contributions from Jan 1 - Jan 22, 2014 for state of California. 
 
-<img src="images/state.png">
+<img src="images/state_new.PNG">
 
 Google Map API is used to show the cities from where the contibution are coming for a day
 <img src="images/map.png">
