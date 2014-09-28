@@ -3,9 +3,9 @@ Document is Work in Progress
 
 <h1>PartyCash Portal
 
-Designed and developed by <b>Richa Gupta</b>
+Designed and developed by <b>Richa Gupta</b>.
 
-<p>To make any campaign successful, a campaign manager is needed. A campaign manager is responsible for raising the funds. A survey has been done on half oe election candidates and founf out that they spent one-fourth of their time in fundraising.
+<p>To make any campaign successful, a campaign manager is needed. A campaign manager is responsible for raising the funds. A survey has been done on half of election candidates and found out that they spent one-fourth of their time in fundraising.
 
 <p>PartyCash Portal helps campaign manager to find out the financial situation of the party. They tried to spread the message of the campaign through email, internet, Television ads, and by holding meetings. PartyCash Portal provides the visual represntation of the funds collected.
 
@@ -33,8 +33,18 @@ Google Map API is used to show the cities from where the contibution are coming 
 <img src="images/map.png">
 
 ##How to Run
+
+If you want to run the scripts please refer to HowToRun.md
+
 To run the portal goto http://partycashportal.com:8082/partycash
 
+Slides are available at http://www.slideshare.net/richamit/partycash-portal
+
+##Future Enhancements
+
+PartyCash Portal is implemented in 3 weeks. This can be further extended and can include following features
+
+1. Storm or spark can be used to replace the consumers written in Java
 
 
 
