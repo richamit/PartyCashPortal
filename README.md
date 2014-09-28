@@ -3,7 +3,7 @@ Document is Work in Progress
 
 <h1>PartyCash Portal
 
-Designed and developed by <b>Richa Gupta</b>
+Designed and developed by <b>Richa Gupta</b>.
 
 <p>To make any campaign successful, a campaign manager is needed. A campaign manager is responsible for raising the funds. A survey has been done on half oe election candidates and founf out that they spent one-fourth of their time in fundraising.
 
@@ -38,6 +38,12 @@ If you want to run the scripts please refer to HowToRun.md
 
 To run the portal goto http://partycashportal.com:8082/partycash
 
+##Future Enhancements
 
+PartyCash Portal is implemented in 3 weeks. This can be further extended and can include following features
+
+1. Storm or spark can be used to replace the consumers written in Java
+
+2. 
 
 
