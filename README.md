@@ -1,6 +1,3 @@
-Document is Work in Progress
-
-
 <h1>PartyCash Portal
 
 Designed and developed by <b>Richa Gupta</b>.
