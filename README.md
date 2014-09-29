@@ -1,6 +1,3 @@
-Document is Work in Progress
-
-
 <h1>PartyCash Portal
 
 Designed and developed by <b>Richa Gupta</b>.
@@ -11,7 +8,7 @@ Designed and developed by <b>Richa Gupta</b>.
 
 ##Data Pipeline
 
-<img src="images/datapipeline.png">
+<img src="images/datapipeline1.png">
 
 <p>Data pipeline consists of 2 main components
 
