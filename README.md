@@ -11,7 +11,7 @@ Designed and developed by <b>Richa Gupta</b>.
 
 ##Data Pipeline
 
-<img src="images/datapipeline.png">
+<img src="images/datapipeline1.png">
 
 <p>Data pipeline consists of 2 main components
 
